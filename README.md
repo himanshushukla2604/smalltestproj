@@ -1,2 +1,1 @@
-# smalltestproj
-web application small project
+TinDog Starting Files
